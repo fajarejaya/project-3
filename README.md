@@ -47,6 +47,7 @@ LCD 1602 I2C menampilkan:
     6. Power Supply 5V DC
 
 📊 Diagram
+
   ⚡ Wiring Diagram
 
       ![Diagram Sistem Humidifier](images/sketch_humidifier_bb.jpg)
