@@ -46,7 +46,7 @@ LCD 1602 I2C menampilkan:
 
 📊 Diagram
   ⚡ Wiring Diagram
-      ![Diagram Sistem Humidifier](images/Sketch Humidifier_bb.jpg)
+      ![Diagram Sistem Humidifier](C:\Users\ACER\Documents\PlatformIO\Projects\Belajar\images\Sketch Humidifier_bb.jpg)
   🔁 System Flowchart
 
   
