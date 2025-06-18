@@ -18,6 +18,7 @@ Proyek ini merupakan sistem **Air Humidifier otomatis** berbasis **ESP32 C6 WROO
 ```
 
 📝 Deskripsi Singkat
+
 IoT Air Humidifier ini bekerja dengan dua mode:
 - Auto Mode: Mist maker akan aktif jika kelembapan < 70.9% dan akan mati jika > 85.0%.
 - Manual Mode: Mist maker dikendalikan secara langsung via aplikasi Blynk.
@@ -37,6 +38,7 @@ LCD 1602 I2C menampilkan:
 | `V4`        | Status Mist Maker: ON / OFF |
 
 🧰 Hardware yang Digunakan
+
     1. ESP32 C6 WROOM 1
     2. Sensor DHT22
     3. Relay 5V SRD-05VDC-SL-C
@@ -46,7 +48,9 @@ LCD 1602 I2C menampilkan:
 
 📊 Diagram
   ⚡ Wiring Diagram
+
       ![Diagram Sistem Humidifier](C:\Users\ACER\Documents\PlatformIO\Projects\Belajar\images\Sketch Humidifier_bb.jpg)
+      
   🔁 System Flowchart
 
   
