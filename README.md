@@ -50,8 +50,10 @@ LCD 1602 I2C menampilkan:
 
   ⚡ Wiring Diagram
 
-      ![Diagram Sistem Humidifier](images/sketch_humidifier_bb.jpg)
+  ![Wiring Diagram](images/sketch_humidifier_bb.jpg)
 
   🔁 System Flowchart
+
+  ![Flowchart Diagram](images/flowchart.png)
 
   
