@@ -72,6 +72,11 @@ LCD 1602 I2C menampilkan:
 
 ## 📎 Referensi
 
-- Blynk Docs: https://docs.blynk.io
-- DHT Sensor Library: Adafruit DHT Sensor Library
+- Arduino Core for ESP32: https://github.com/espressif/arduino-esp32
+- Blynk: https://github.com/blynkkk/blynk-library
+- DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
+- LiquidCrystal_I2C: https://github.com/marcoschwartz/LiquidCrystal_I2C
+- LiquidCrystal_I2C_ESP32: https://github.com/d-iakov/LiquidCrystal_I2C_ESP32
+- PubSubClient: https://github.com/knolleary/pubsubclient
 - WiFiManager: https://github.com/tzapu/WiFiManager
+- WiFi (Wire Library): https://www.arduino.cc/en/reference/wire
